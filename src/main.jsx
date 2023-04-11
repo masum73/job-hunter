@@ -11,12 +11,14 @@ import Statistics from './components/Statistics';
 import AppliedJobs from './components/AppliedJobs';
 import Blog from './components/Blog';
 import ErrorPage from './components/ErrorPage';
+import { jobsAndCartData } from './loaders/getCart&JobsData';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App></App>,
     errorElement: <ErrorPage></ErrorPage>,
+    loader: jobsAndCartData , 
     children: [
       {
         path:'/',
