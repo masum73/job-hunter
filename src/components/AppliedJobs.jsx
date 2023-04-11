@@ -1,9 +1,10 @@
 import React from 'react';
+import CommonBanner from './Banner/CommonBanner';
 
 const AppliedJobs = () => {
     return (
         <div>
-            <h3>Applied Jobs</h3>
+            <CommonBanner title='Applied Jobs'></CommonBanner>
         </div>
     );
 };

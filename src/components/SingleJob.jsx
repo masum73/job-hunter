@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const SingleJob = ({ job }) => {
-    const { companyLogo, jobTitle, companyName, type, time, location, salary } = job;
+    const { id, companyLogo, jobTitle, companyName, type, time, location, salary } = job;
     return (
         <div className='flex flex-col justify-center items-start mx-auto border border-gray-500 w-96 p-5'>
             <img className='mb-5' src={companyLogo} alt="" />
@@ -17,7 +18,8 @@ const SingleJob = ({ job }) => {
                 {/* <img src="../assets/Icons/Frame.png" alt="" /> */}
                 <h2>{salary}</h2>
             </div>
-            <button className='btn-primary'>View Details</button>
+            <Link to={`/job/${id}`}><button className='btn-primary'>View Details</button></Link>
+            
         </div>
     );
 };
