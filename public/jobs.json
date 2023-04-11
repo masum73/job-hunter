@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "../src/assets/Logo/google-1-1 1-1.png",
+        "jobTitle": "Technical Database Engineer",
+        "companyName": "Google",
+        "type": "Onsite",
+        "time": "Full Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 8,
+        "email": "ptokell0@nbcnews.com"
+    },
+    {
+        "id": 2,
+        "companyLogo": "../src/assets/Logo/netflix-4 1.png",
+        "jobTitle": "Senior Product Manager",
+        "companyName": "Netflix",
+        "type": "Remote",
+        "time": "Full Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 9,
+        "email": "jhavvock1@plala.or.jp"
+    },
+    {
+        "id": 3,
+        "companyLogo": "../src/assets/Logo/tesla-9 1.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Tesla",
+        "type": "Remote",
+        "time": "Full Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 7,
+        "email": "gmacmichael2@google.com.au"
+    },
+    {
+        "id": 4,
+        "companyLogo": "../src/assets/Logo/google-1-1 1.png",
+        "jobTitle": "React Web Developer",
+        "companyName": "Google",
+        "type": "Onsite",
+        "time": "Full Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 7,
+        "email": "tgatley3@toplist.cz"
+    },
+    {
+        "id": 5,
+        "companyLogo": "../src/assets/Logo/netflix-4 1.png",
+        "jobTitle": "SQA Engineer",
+        "companyName": "Netflix",
+        "type": "Onsite",
+        "time": "Part Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 10,
+        "email": "lohanley4@wisc.edu"
+    },
+    {
+        "id": 6,
+        "companyLogo": "../src/assets/Logo/tesla-9 1.png",
+        "jobTitle": "MERN Stack Devloper",
+        "companyName": "Tesla",
+        "type": "Remote",
+        "time": "Part Time",
+        "salary": "Salary: 100k-500k",
+        "experiences": 9,
+        "email": "rleeb5@columbia.edu"
+    }
+]

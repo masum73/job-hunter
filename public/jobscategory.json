@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "CategoryLogo": "../src/assets/Icons/accounts 1.png",
-        "CategoryName": "Account & Finance",
-        "JobsAvailable": "300 Jobs Available"
+        "categoryLogo": "../src/assets/Icons/accounts 1.png",
+        "categoryName": "Account & Finance",
+        "jobsAvailable": "300 Jobs Available"
     },
     {
         "id": 2,
-        "CategoryLogo": "../src/assets/Icons/business 1.png",
-        "CategoryName": "Creative Design",
-        "JobsAvailable": "100+ Jobs Available"
+        "categoryLogo": "../src/assets/Icons/business 1.png",
+        "categoryName": "Creative Design",
+        "jobsAvailable": "100+ Jobs Available"
     },
     {
         "id": 3,
-        "CategoryLogo": "../src/assets/Icons/social-media 1.png",
-        "CategoryName": "Marketing & Sales",
-        "JobsAvailable": "150 Jobs Available"
+        "categoryLogo": "../src/assets/Icons/social-media 1.png",
+        "categoryName": "Marketing & Sales",
+        "jobsAvailable": "150 Jobs Available"
     },
     {
         "id": 4,
-        "CategoryLogo": "../src/assets/Icons/chip 1.png",
-        "CategoryName": "Engineering Job",
-        "JobsAvailable": "224 Jobs Available"
+        "categoryLogo": "../src/assets/Icons/chip 1.png",
+        "categoryName": "Engineering Job",
+        "jobsAvailable": "224 Jobs Available"
     }
 ]
