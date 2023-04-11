@@ -6,6 +6,7 @@
         "companyName": "Google",
         "type": "Onsite",
         "time": "Full Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 8,
         "email": "ptokell0@nbcnews.com"
@@ -17,6 +18,7 @@
         "companyName": "Netflix",
         "type": "Remote",
         "time": "Full Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 9,
         "email": "jhavvock1@plala.or.jp"
@@ -28,6 +30,7 @@
         "companyName": "Tesla",
         "type": "Remote",
         "time": "Full Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 7,
         "email": "gmacmichael2@google.com.au"
@@ -39,6 +42,7 @@
         "companyName": "Google",
         "type": "Onsite",
         "time": "Full Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 7,
         "email": "tgatley3@toplist.cz"
@@ -50,6 +54,7 @@
         "companyName": "Netflix",
         "type": "Onsite",
         "time": "Part Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 10,
         "email": "lohanley4@wisc.edu"
@@ -61,6 +66,7 @@
         "companyName": "Tesla",
         "type": "Remote",
         "time": "Part Time",
+        "location": "Dhaka, Bangladesh",
         "salary": "Salary: 100k-500k",
         "experiences": 9,
         "email": "rleeb5@columbia.edu"
