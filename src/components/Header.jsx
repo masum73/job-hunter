@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='flex justify-evenly items-center mx-auto bg-purple-100 py-5'>
+        <div className='flex justify-evenly items-center mx-auto bg-indigo-50 py-5'>
             <div>
                 <Link to='/' aria-label='JobHunter' title='JobHunter' className='text-3xl font-bold'
                 >Job Hunter</Link>
