@@ -10,24 +10,27 @@ const AppliedJobs = () => {
     const [filter, setFilter] = useState(null);
 
     let appliedJobs = jobs.filter(job => cartJobs[job.id])
-    
-    if(filter){
+
+    if (filter) {
         appliedJobs = appliedJobs.filter(job => job.type === filter)
     }
-
 
     return (
         <>
             <CommonBanner title='Applied Jobs'></CommonBanner>
-            <div className='flex flex-col justify-center items-center mx-auto py-96'>
-                <button onClick={()=> setFilter('Remote')} className='btn-primary'>Remote</button>
-                <button onClick={()=> setFilter('Onsite')} className='btn-primary'>on-Site</button>
-            {
-                appliedJobs.map(aJob => <SingleAppliedJob
-                key={aJob.id}
-                aJob={aJob}
-                ></SingleAppliedJob>)
-            }
+            <div className='' >
+                <div className='flex justify-end items-end gap-3 pt-96 mx-auto w-2/3'>
+                    <button onClick={() => setFilter('Remote')} className='btn-primary'>Remote</button>
+                    <button onClick={() => setFilter('Onsite')} className='btn-primary'>On-Site</button>
+                </div>
+                <div className='flex flex-col justify-center items-center py-5 w-2/3 mx-auto'>
+                {
+                    appliedJobs.map(aJob => <SingleAppliedJob
+                        key={aJob.id}
+                        aJob={aJob}
+                    ></SingleAppliedJob>)
+                }
+                </div>
             </div>
         </>
     );
