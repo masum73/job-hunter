@@ -6,5 +6,4 @@
 Hosted in Netlify -> [Job Hunter](https://herogadget.netlify.app/)
 
 ## Best Features
-Apply for jobs 
-Reading blogs
+Apply for different jobs and reading job related blogs on our site.
