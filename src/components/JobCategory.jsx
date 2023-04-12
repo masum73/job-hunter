@@ -13,7 +13,7 @@ const JobCategory = () => {
 
     return (
 
-        <div>
+        <div className='w-9/12 mx-auto'>
             <div className='flex flex-col justify-center items-center mt-10 mx-auto'>
                 <h2 className='text-5xl font-bold'>Job Category List</h2>
                 <p className='py-3'>Explore thousands of job opportunities with all the information you need. Its your future</p>

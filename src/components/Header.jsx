@@ -3,32 +3,34 @@ import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='flex justify-evenly items-center mx-auto py-5 bg-transparent absolute w-full'>
-            <div>
-                <Link to='/' aria-label='JobHunter' title='JobHunter' className='text-3xl font-bold'
-                >Job Hunter</Link>
-            </div>
+        <div className='w-full absolute'>
+            <div className='flex justify-between items-center mx-auto py-5 bg-transparent  w-9/12'>
+                <div>
+                    <Link to='/' aria-label='JobHunter' title='JobHunter' className=' text-3xl font-bold'
+                    >Job Hunter</Link>
+                </div>
 
-            <div className='flex gap-12'>
-                <NavLink to='/statistics' aria-label='statistics' title='statistics'
-                    className={({ isActive }) => (isActive ? 'active' : 'default')}
-                >
-                    Statistics
-                </NavLink>
-                <NavLink to='/appliedjobs' aria-label='appliedjobs' title='appliedjobs'
-                    className={({ isActive }) => (isActive ? 'active' : 'default')}
-                >
-                    Applied Jobs
-                </NavLink>
-                <NavLink to='/blog' aria-label='blog' title='blog'
-                    className={({ isActive }) => (isActive ? 'active' : 'default')}
-                >
-                    Blog
-                </NavLink>
-            </div>
+                <div className='flex gap-12'>
+                    <NavLink to='/statistics' aria-label='statistics' title='statistics'
+                        className={({ isActive }) => (isActive ? 'active' : 'default')}
+                    >
+                        Statistics
+                    </NavLink>
+                    <NavLink to='/appliedjobs' aria-label='appliedjobs' title='appliedjobs'
+                        className={({ isActive }) => (isActive ? 'active' : 'default')}
+                    >
+                        Applied Jobs
+                    </NavLink>
+                    <NavLink to='/blog' aria-label='blog' title='blog'
+                        className={({ isActive }) => (isActive ? 'active' : 'default')}
+                    >
+                        Blog
+                    </NavLink>
+                </div>
 
-            <div>
-                <button type='button' className='btn-primary'>Start Applying</button>
+                <div>
+                    <button type='button' className='btn-primary'>Start Applying</button>
+                </div>
             </div>
         </div>
     );
