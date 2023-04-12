@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "companyLogo": "../src/assets/Logo/google-1-1 1-1.png",
+        "companyLogo": "https://i.ibb.co/PNGkFbB/google-1-1-1-1.png",
         "jobTitle": "Technical Database Engineer",
         "companyName": "Google",
         "type": "Onsite",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "companyLogo": "../src/assets/Logo/netflix-4 1.png",
+        "companyLogo": "https://i.ibb.co/tzYR2p3/netflix-4-1.png",
         "jobTitle": "Senior Product Manager",
         "companyName": "Netflix",
         "type": "Remote",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "companyLogo": "../src/assets/Logo/tesla-9 1.png",
+        "companyLogo": "https://i.ibb.co/8x3hTxM/tesla-9-1.png",
         "jobTitle": "Software Engineer",
         "companyName": "Tesla",
         "type": "Remote",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "companyLogo": "../src/assets/Logo/google-1-1 1.png",
+        "companyLogo": "https://i.ibb.co/PNGkFbB/google-1-1-1-1.png",
         "jobTitle": "React Web Developer",
         "companyName": "Google",
         "type": "Onsite",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "companyLogo": "../src/assets/Logo/netflix-4 1.png",
+        "companyLogo": "https://i.ibb.co/tzYR2p3/netflix-4-1.png",
         "jobTitle": "SQA Engineer",
         "companyName": "Netflix",
         "type": "Onsite",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "companyLogo": "../src/assets/Logo/tesla-9 1.png",
+        "companyLogo": "https://i.ibb.co/8x3hTxM/tesla-9-1.png",
         "jobTitle": "MERN Stack Devloper",
         "companyName": "Tesla",
         "type": "Remote",
