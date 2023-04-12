@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <div className='w-full absolute'>
-            <div className='flex justify-between items-center mx-auto py-5 bg-transparent  w-9/12'>
+            <div className='flex justify-between items-center mx-auto py-5 bg-transparent  w-2/3'>
                 <div>
                     <Link to='/' aria-label='JobHunter' title='JobHunter' className=' text-3xl font-bold'
                     >Job Hunter</Link>
