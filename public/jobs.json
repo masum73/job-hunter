@@ -10,7 +10,7 @@
         "salary": "100k-500k",
         "experiences": "8 years",
         "email": "ptokell0@nbcnews.com",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A Technical Database Engineer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 2,
@@ -23,7 +23,7 @@
         "salary": "100k-500k",
         "experiences": "9 years",
         "email": "jhavvock1@plala.or.jp",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A Senior Product Manager is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 3,
@@ -36,7 +36,7 @@
         "salary": "100k-500k",
         "experiences": "7 years",
         "email": "gmacmichael2@google.com.au",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A Software Engineer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@
         "salary": "100k-500k",
         "experiences": "7 years",
         "email": "tgatley3@toplist.cz",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A React Web Developer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
         "salary": "100k-500k",
         "experiences": "10 years",
         "email": "lohanley4@wisc.edu",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A SQA Engineer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 6,
@@ -75,6 +75,6 @@
         "salary": "100k-500k",
         "experiences": "9 years",
         "email": "rleeb5@columbia.edu",
-        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jd": "A MERN Stack Devloper is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     }
 ]
