@@ -10,7 +10,7 @@ const HomeBanner = () => {
                     <button className='btn-primary'>Get Started</button>
                 </div>
                 <div>
-                    <img src="https://ibb.co/56XS4kD" alt="" />
+                    <img src="https://i.ibb.co/G0f8p9w/man.png" alt="" />
                 </div>
             </div>
 
