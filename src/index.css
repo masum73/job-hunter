@@ -14,7 +14,7 @@
   @apply font-medium transition duration-200 shadow-md md:mb-0 px-4 py-2 md:px-4 md:py-3  text-lg rounded-md border-transparent border-2 text-white hover:bg-indigo-900 bg-indigo-500 
 }
 
-.btn-outlined {
-  @apply font-medium transition duration-200 shadow-md md:mb-0 px-4 py-2 md:px-8 md:py-3 m-2 text-lg rounded-md text-gray-700 hover:bg-cyan-400 hover:border-transparent border-2 border-cyan-200
+.btn-apply {
+  @apply font-medium transition duration-200 shadow-md md:mb-0 px-4 py-2 md:p-24 md:py-3  text-lg rounded-md border-transparent border-2 text-white hover:bg-indigo-900 bg-indigo-500 
 }
 

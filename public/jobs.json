@@ -7,9 +7,10 @@
         "type": "Onsite",
         "time": "Full Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 8,
-        "email": "ptokell0@nbcnews.com"
+        "salary": "100k-500k",
+        "experiences": "8 years",
+        "email": "ptokell0@nbcnews.com",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 2,
@@ -19,9 +20,10 @@
         "type": "Remote",
         "time": "Full Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 9,
-        "email": "jhavvock1@plala.or.jp"
+        "salary": "100k-500k",
+        "experiences": "9 years",
+        "email": "jhavvock1@plala.or.jp",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 3,
@@ -31,9 +33,10 @@
         "type": "Remote",
         "time": "Full Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 7,
-        "email": "gmacmichael2@google.com.au"
+        "salary": "100k-500k",
+        "experiences": "7 years",
+        "email": "gmacmichael2@google.com.au",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 4,
@@ -43,9 +46,10 @@
         "type": "Onsite",
         "time": "Full Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 7,
-        "email": "tgatley3@toplist.cz"
+        "salary": "100k-500k",
+        "experiences": "7 years",
+        "email": "tgatley3@toplist.cz",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 5,
@@ -55,9 +59,10 @@
         "type": "Onsite",
         "time": "Part Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 10,
-        "email": "lohanley4@wisc.edu"
+        "salary": "100k-500k",
+        "experiences": "10 years",
+        "email": "lohanley4@wisc.edu",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "id": 6,
@@ -67,8 +72,9 @@
         "type": "Remote",
         "time": "Part Time",
         "location": "Dhaka, Bangladesh",
-        "salary": "Salary: 100k-500k",
-        "experiences": 9,
-        "email": "rleeb5@columbia.edu"
+        "salary": "100k-500k",
+        "experiences": "9 years",
+        "email": "rleeb5@columbia.edu",
+        "jd": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     }
 ]
