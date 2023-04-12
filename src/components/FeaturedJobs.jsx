@@ -1,9 +1,11 @@
-import React, { useContext } from 'react';
+import React, { useContext, useState } from 'react';
 import { JobContext } from '../App';
 import SingleJob from './SingleJob';
 
 const FeaturedJobs = () => {
     const jobs = useContext(JobContext);
+
+    const [seeAllButtonClicked, setSeeAllButtonClicked] = useState(false)
 
     return (
         <div>
@@ -11,16 +13,16 @@ const FeaturedJobs = () => {
                 <h2 className='text-5xl font-bold'>Featured Jobs</h2>
                 <p className='py-3'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
-            <div className='grid grid-cols-2 justify-center items-center gap-6'>
+            <div className='grid grid-cols-2 place-content-center place-items-center gap-3'>
                 {
-                    jobs.map(job => <SingleJob
+                    jobs.slice(0 , seeAllButtonClicked ? jobs.length : 4).map(job => <SingleJob
                         key={job.id}
                         job={job}
                     ></SingleJob>)
                 }
             </div>
             <div className='flex justify-center items-center'>
-                <button className='btn-primary'>See All Jobs</button>
+                <button onClick={()=> setSeeAllButtonClicked(true)} className='btn-primary'>See All Jobs</button>
             </div>
         </div>
     );

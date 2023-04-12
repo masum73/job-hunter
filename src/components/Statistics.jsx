@@ -37,7 +37,7 @@ const Statistics = () => {
         }
     ]
     return (
-        <div className='my-12 mx-auto px-12 flex flex-col justify-center items-center'>
+        <div className='mx-auto px-12 flex flex-col justify-center items-center py-24'>
             <h2 className='text-3xl font-bold text-center my-5'>Assignments Marks Scatter Chart</h2>
             <ScatterChart
                 width={1000}

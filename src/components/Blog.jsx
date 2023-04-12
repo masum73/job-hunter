@@ -24,7 +24,7 @@ const Blog = () => {
         }
     ]
     return (
-        <div className='flex justify-center items-center gap-3 mx-auto'>
+        <div className='flex flex-col w-1/2 justify-center gap-3 mx-auto py-24'>
             {
                 questions.map(q => {
                     return (
