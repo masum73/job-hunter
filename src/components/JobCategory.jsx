@@ -20,7 +20,7 @@ const JobCategory = () => {
             </div>
 
             {/* dynamic category will be here */}
-            <div className='flex justify-center items-center mx-auto p-5 gap-5'>
+            <div className='flex flex-col md:flex-row w-full justify-center items-center mx-auto p-5 gap-5'>
                 {
                     categories.map(category => <SingleCategory
                     key={category.id}

@@ -4,13 +4,13 @@ import { Link, NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <div className='w-full absolute'>
-            <div className='flex justify-between items-center mx-auto py-5 bg-transparent  w-2/3'>
+            <div className='flex flex-col md:flex-row justify-between items-center mx-auto py-5 bg-transparent  w-2/3'>
                 <div>
                     <Link to='/' aria-label='JobHunter' title='JobHunter' className=' text-3xl font-bold'
                     >Job Hunter</Link>
                 </div>
 
-                <div className='flex gap-12'>
+                <div className='flex flex-col md:flex-row gap-12'>
                     <NavLink to='/statistics' aria-label='statistics' title='statistics'
                         className={({ isActive }) => (isActive ? 'active' : 'default')}
                     >

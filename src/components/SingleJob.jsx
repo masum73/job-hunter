@@ -16,7 +16,7 @@ const SingleJob = ({ job }) => {
                 <img src="/src/assets/Icons/Location Icon.png" alt="" />
                 <h2>{location}</h2>
                 <img src="/src/assets/Icons/Frame.png" alt="" />
-                <h2>{salary}</h2>
+                <h2>Salary: {salary}</h2>
             </div>
             <Link to={`/job/${id}`}><button className='btn-primary mt-3'>View Details</button></Link>
 

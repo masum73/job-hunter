@@ -13,7 +13,7 @@ const FeaturedJobs = () => {
                 <h2 className='text-5xl font-bold'>Featured Jobs</h2>
                 <p className='py-3'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
-            <div className='grid grid-cols-2 place-content-center place-items-center gap-3'>
+            <div className='grid grid-cols-1 md:grid-cols-2 place-content-center place-items-center gap-3'>
                 {
                     jobs.slice(0 , seeAllButtonClicked ? jobs.length : 4).map(job => <SingleJob
                         key={job.id}
