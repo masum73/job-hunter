@@ -10,9 +10,9 @@ const SingleJobDetails = ({ presentJob }) => {
 
         if (!exists) {
             addToDb(job.id)
-            alert('thanks')
+            alert('Thanks for applying')
         } else {
-            alert('no 2nd time apply')
+            alert('You can not apply multiple times!')
         }
     }
 

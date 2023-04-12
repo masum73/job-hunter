@@ -6,11 +6,10 @@ import Footer from './components/Footer';
 export const JobContext = createContext([])
 
 const App = () => {
-  const { jobs, initialCart } = useLoaderData();
+  const {jobs} = useLoaderData();
 
   return (
     <JobContext.Provider value={jobs}>
-
         <Header></Header>
         <div className='md:min-h-[calc(100vh-200px)]'>
           <Outlet />
