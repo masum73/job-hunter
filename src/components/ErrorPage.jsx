@@ -47,6 +47,7 @@ const ErrorPage = () => {
                 </div>
             </div>
         </section>
+        // <h2 className='text-center'>Error page</h2>
     )
 }
 
