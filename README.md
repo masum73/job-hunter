@@ -1,4 +1,4 @@
-# Job Hunter Starter Repository
+# Job Hunter Repository
 
  Best job hunting platform for applying jobs for different companies.
 
