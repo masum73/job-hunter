@@ -17,9 +17,9 @@ const SingleAppliedJob = ({ aJob }) => {
                         <h2 className='border rounded-md text-indigo-500 border-indigo-500 p-2'>{time}</h2>
                     </div>
                     <div className='flex justify-center items-center gap-2'>
-                        <img src="/src/assets/Icons/Location Icon.png" alt="" />
+                        <img src="https://i.ibb.co/DwwJGpZ/Location-Icon.png" alt="" />
                         <h2>{location}</h2>
-                        <img src="/src/assets/Icons/Frame.png" alt="" />
+                        <img src="https://i.ibb.co/qR8gRHx/Frame.png" alt="" />
                         <h2>Salary: {salary}</h2>
                     </div>
                 </div>
